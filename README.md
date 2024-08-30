@@ -64,16 +64,19 @@ This project demonstrates a simple audio visualizer using Python. It analyzes th
    - Execute the script:
      ```bash
      python visualizer.py
-     ```
 
 3. **View the Waveform**:
    - A window will open displaying the waveform plot, showing how the volume changes over time.
+     ```
+## Animating the Waveform
+
+This project now includes an animated waveform feature. The visualization dynamically updates to show the waveform scrolling over time.
 
 ## Example Output
 
 Here’s an example of what the waveform plot might look like:
 
-![Waveform Example](example_waveform.png) *(Note: Replace with your actual image)*
+![Waveform Example](example_waveform.png)
 
 ## Next Steps
 
