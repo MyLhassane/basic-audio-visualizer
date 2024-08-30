@@ -76,7 +76,7 @@ This project now includes an animated waveform feature. The visualization dynami
 
 Here’s an example of what the waveform plot might look like:
 
-![Waveform Example](example_waveform-animation.png)
+![Waveform Example](example_waveform-animation.gif)
 
 ## Next Steps
 
