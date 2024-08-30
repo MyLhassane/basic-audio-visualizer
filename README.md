@@ -1,7 +1,3 @@
-Here's an updated `README.md` file with the installation steps for `FFmpeg` and a note about the restart requirement:
-
----
-
 # Basic Audio Visualizer
 
 This project demonstrates a simple audio visualizer using Python. It analyzes the volume (RMS) of an audio file and creates a waveform visualization over time.
